@@ -27,10 +27,6 @@ nav {
     display: none
 }
 
-a {
-    background-color: transparent
-}
-
 a:active,
 a:hover {
     outline: 0
@@ -54,8 +50,8 @@ img {
 
 @media print {
     *,
-    :after,
-    :before {
+     :after,
+     :before {
         color: #000!important;
         text-shadow: none!important;
         background: 0 0!important;
