@@ -140,7 +140,7 @@ a:focus {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
 }
 
 .img-responsive {
@@ -226,7 +226,7 @@ p {
 }
 
 .text-center {
-    text-align: center
+    text-align: center;
 }
 
 .page-header {

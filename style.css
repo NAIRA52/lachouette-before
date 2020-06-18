@@ -105,8 +105,11 @@ a:hover {
     color: rgba(255, 255, 255, 1)
 }
 
-.l-bloc {
-    color: rgba(0, 0, 0, .5)
+.form-group {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 1REM;
+    flex-direction: column;
 }
 
 .l-bloc .a-btn,
@@ -485,7 +488,6 @@ h4 {
         position: relative
     }
     h1,
-    h2,
     h3,
     h4,
     h5,
