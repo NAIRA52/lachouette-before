@@ -23,8 +23,4 @@
   ExpiresByType css/font-awesome.css "accès plus 1 mois"
   ExpiresByType application / javascript "accès plus 1 mois"
   ExpiresByType style.css "accès plus 1 mois"
-
-  # Autres
-  ExpiresByType application / pdf "accès plus 1 mois"
-  ExpiresByType application / x-shockwave-flash "accès plus 1 mois"
 </IfModule>
